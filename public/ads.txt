@@ -1,0 +1,3 @@
+# ads.txt for Horn Truth
+# After Google AdSense approval, replace this file with the line Google provides, for example:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
